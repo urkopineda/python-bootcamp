@@ -1,2 +1,2 @@
 # python-bootcamp
-Exercises from the course "Complete Python Bootcamp" and more.s
+Exercises from the course "Complete Python Bootcamp" and more.
